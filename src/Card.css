@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    width: 50%;
+    height: 50%;
+}
+
+.columna-imagen {
+    flex: 1;
+}
+
+.columna-titulo-descripcion {
+    flex: 6;
+}
+
+.componente-titulo {
+    flex: 1;
+    color: blue;
+}
+
+.componente-descripcion {
+    flex: 1;
+    color: yellow;
+}
