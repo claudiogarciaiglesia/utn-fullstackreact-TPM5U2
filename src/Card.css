@@ -1,11 +1,17 @@
 .card {
     display: flex;
-    width: 50%;
-    height: 50%;
+    width: 500px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin: 10px;
 }
 
 .columna-imagen {
     flex: 1;
+    margin: auto;
+    height: 100%;
+    margin-right: 5px;
 }
 
 .columna-titulo-descripcion {
@@ -15,6 +21,8 @@
 .componente-titulo {
     flex: 1;
     color: blue;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .componente-descripcion {
