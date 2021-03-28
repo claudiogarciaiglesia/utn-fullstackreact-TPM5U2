@@ -9,6 +9,7 @@
     padding: 5px;
     margin: 10px;
     overflow:auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .columna-imagen {
@@ -48,10 +49,4 @@
     word-break: unset;
     overflow-wrap: unset;
     white-space:unset; 
-
-
-}
-
-.componente-descripcion span {
-    z-index: -1;
 }
